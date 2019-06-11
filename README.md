@@ -41,7 +41,7 @@ Please cite:
 * Hongyu Lin, Yaojie Lu, Xianpei Han, Le Sun. *Sequence-to-Nuggets: Nested Entity Mention Detection via Anchor-Region Networks*. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics.
 
 ```
-@InProceedings{lin-Etal:2018:ACL2019sequence,
+@InProceedings{lin-Etal:2019:ACL2019sequence,
   author    = {Lin, Hongyu and Lu, Yaojie and Han, Xianpei and Sun, Le},
   title     = {Sequence-to-Nuggets: Nested Entity Mention Detection via Anchor-Region Networks},
   booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
